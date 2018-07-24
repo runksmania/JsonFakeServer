@@ -9,8 +9,8 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "pass":  [
-    { "id": 1, "password": 257021425},
-    { "id": 2, "password": 2103911031}
+    { "id": 1, "int": 257021425},
+    { "id": 2, "int": 2103911031}
   ],
   "profile": {
     "name": "typicode"
