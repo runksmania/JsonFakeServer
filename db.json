@@ -8,6 +8,9 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "pass":  [
+    { "id": 1, "password: 257021425"}
+  ],
   "profile": {
     "name": "typicode"
   }
