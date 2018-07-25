@@ -8,8 +8,8 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "pass":  [
-    { "id": 1, "int": 257021425},
+  "HashPass":  [
+    { "Id": 1, "HashPass": 257021425},
     { "id": 2, "int": 2103911031}
   ],
   "profile": {
