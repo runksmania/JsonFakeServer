@@ -10,7 +10,7 @@
   ],
   "HashPass":  [
     { "id": 1, "HashPass": 257021425},
-    { "id": 2, "int": 2103911031}
+    { "id": 2, "HashPass": 2103911031}
   ],
   "profile": {
     "name": "typicode"
