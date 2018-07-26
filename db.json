@@ -1,18 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Login":  [
+    { 'Username': 'A', 'HashPass': 257021425},
+    { 'Username': 'B', 'HashPass': 2103911031}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "HashPass":  [
-    { "id": 1, "HashPass": 257021425},
-    { "id": 2, "HashPass": 2103911031}
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
