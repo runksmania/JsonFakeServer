@@ -9,7 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "users":  [
-    { "Username": "1", "HashPass": "f932a90b2661b4b24f421a4291b1241820733491ebd3eb6fad1526f5c46c6c1b"},
+    { "Username": "1", "HashPass": "686e25b99f769479eca6ebaadf82024e0dc3f4d596d8149276bc142ba6f9a176"},
     { "Username": "2", "HashPass": "f932a90b2661b4b24f421a4291b1241820733491ebd3eb6fad1526f5c46c6c1b"}
   ],
   "profile": {
