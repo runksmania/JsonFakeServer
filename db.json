@@ -1,16 +1,16 @@
 {
   "posts": [
-    { "id": 1, 'title': 'Post 1' },
-    { "id: 2, 'title': 'Post 2' },
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  'users':  [
-    { 'Username': '1', 'HashPass': '686e25b99f769479eca6ebaadf82024e0dc3f4d596d8149276bc142ba6f9a176'},
-    { 'Username': '2', 'HashPass': '3f576c9afe138a835ad58ceb509eb7972130b3b19c922bc880e9f72a8b5d190d'}
+  "users":  [
+    { "Username": "1", "HashPass": "686e25b99f769479eca6ebaadf82024e0dc3f4d596d8149276bc142ba6f9a176"},
+    { "Username": "2", "HashPass": "3f576c9afe138a835ad58ceb509eb7972130b3b19c922bc880e9f72a8b5d190d"}
   ],
   "profile": {
     "name": "typicode"
