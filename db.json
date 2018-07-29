@@ -13,7 +13,7 @@
     { "Username": "1", "HashPass": "686e25b99f769479eca6ebaadf82024e0dc3f4d596d8149276bc142ba6f9a176"},
     { "Username": "2", "HashPass": "f932a90b2661b4b24f421a4291b1241820733491ebd3eb6fad1526f5c46c6c1b"}
   ],
-  "Machines":  [
+  "machines":  [
     { "AssetNumber": "1001", "Location": "1", "Bank": "1", "NumProgressives": 3, 
      "BaseAmount": 
      [5000, 2000, 200], 
