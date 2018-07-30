@@ -13,7 +13,7 @@
     { "Username": "1", "Salt": "^9!-=", "HashPass": "9c665ab7d686a634739125962fa3ff262c62d1bc4ac5abc569ad862cd0cca4a4"},
     { "Username": "2", "Salt": "'6L<,", "HashPass": "50207c5e5ffe9b629679a2e3834763b7d5d5b779f652980c2734250ffcb3858b"}
   ],
-  "machines":  [
+  "machines":
     { "AssetNumber": "1001", "Location": "1", "Bank": "1", "NumProgressives": 3, 
      "BaseAmount": 
      [5000, 2000, 200], 
@@ -23,8 +23,7 @@
      "BaseAmount": 
      [5000, 2000, 1000, 500, 250, 50], 
      "MaxAmount": 
-     [999999, 999999, 999999, 999999, 999999, 999999]}
-  ],
+     [999999, 999999, 999999, 999999, 999999, 999999]},
   "profile": {
     "name": "typicode"
   }
