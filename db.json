@@ -10,8 +10,8 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "users":  [
-    { "Username": "1", "Salt": "^9!-=", "HashPass": "9c665ab7d686a634739125962fa3ff262c62d1bc4ac5abc569ad862cd0cca4a4"},
-    { "Username": "2", "Salt": "'6L<,", "HashPass": "50207c5e5ffe9b629679a2e3834763b7d5d5b779f652980c2734250ffcb3858b"}
+    { "Username": "1", "Salt": "^9!-=", "HashPass": "e4b3befda0906af56ee2a4dd222396bef6c6e1cc50be1f2a8d47c54c73a93b5a62159e3d799640342c62877f4cd386da74e5f995b52d4d835acae3324bba4509"},
+    { "Username": "2", "Salt": "'6L<,", "HashPass": "3ecdb7c3fa19519412206ca574682bbd5c32893e12a36cedbd93f2e57ecc55d1430dc53c110691804f03bd50ad9aac09c618b810bd7158e70ba90519bb5d2744"}
   ],
   "machines": [
     { "AssetNumber": "1001", "Location": "1", "Bank": "1", "NumProgressives": 3, 
